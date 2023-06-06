@@ -1,1 +1,4 @@
-# .github
+# 308 Permanent Redirect
+
+https://github.com/getwax
+
